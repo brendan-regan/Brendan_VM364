@@ -89,6 +89,23 @@ We went through many iterations of the game. The rules changed but the core mech
 
 Start with 1 Bean Well, and 5 Foundation Cups, 2 of which can be upside down. First to a tower 5 high wins.
 
+#3/21/16: Playtest
+Playtesters thought the game was fun! They really enjoyed being introduced to the rules in 2 stages: "it was like a tutorial."
+
+One criticism they had was that stealing was too strong, and could always stop a win. They recognized the chance of stealing 1-3 cups, but still felt the mechanic needed tweaking.
+
+They also questioned the strength of the beans, because most of the times players poured beans on other peoples towers during this playtest, the towers stayed up.
+
+The playtesters also had questions regarding what to do with extra cups. Multiple times the players had to place 3 cups, but only had space to safely place 2, and so the 3rd cup would just fall off the tower, and return to the center with no penalty or benefit for the player.
+
+To deal with both criticisms, the playtesters suggested maybe letting players trade in cups for beans if they didn't want to place them (a face up cup could trade for 5 beans, and a face down cup could trade for 10).
+
+This would allow players to have more control over the number of cups on their tower, as well as allow players a way to acquire beans for themselves.
+
+Overall the playtesters really enjoyed the game. They thought it had good engagement and low confusion, and it was fun!
+![playtest](http://i.imgur.com/2ZK7e6p.jpg)
+
+
 #How to Play:
 
 -Each player starts with 5 cups for their base. Two cups can be upside down and three cups can be right side up
@@ -123,5 +140,14 @@ After they steal, the targeted player adds twice the die roll in beans to their 
 	They can pour their beans onto their own tower to FORTIFY it.
 	
 	Pour their beans onto another player’s tower to knock it over.
+	
+If any non-foundation cups fall over, they are returned to the center. If a foundation cup is knocked over, it cannot be replaced.
+
+A player loses the game if all of their cups are knocked over
+
+The game goes on until a player successfully build their tower five layers high
+
+![winner](http://i.imgur.com/VeMzPPU.jpg)
+
 	
 If any non-foundation cups fall over, they are returned to the center. If a foundation cup is knocked over, it cannot be replaced.
